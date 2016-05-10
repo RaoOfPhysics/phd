@@ -26,7 +26,7 @@ A list of all my PhD-related repositories on GitHub
 
 ## Posters
 
-1. [*Attitudes towards outreach in particle physics*](https://github.com/RaoOfPhysics/201605_CERN-DSA) (presented at CERN Doctoral Student Assembly 2016) ![DOI: coming soon](https://img.shields.io/badge/DOI-coming%20soon-red.svg)
+1. [*Attitudes towards outreach in particle physics*](https://github.com/RaoOfPhysics/201605_CERN-DSA) (presented at CERN Doctoral Student Assembly 2016) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.51285.svg)](http://dx.doi.org/10.5281/zenodo.51285)
 
 ## Writings
 
