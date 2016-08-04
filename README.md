@@ -18,7 +18,7 @@ A list of all my PhD-related repositories on GitHub
 ## Documents
 
 1. [Thesis](https://github.com/RaoOfPhysics/Thesis) ![status: private](https://img.shields.io/badge/status-private-red.svg)
-2. [**Attitudes Towards Outreach within the Particle-Physics Research Community**](https://github.com/RaoOfPhysics/201607_PCST-Proceedings) (proceedings from PCST 2016) ![status: Work In Progress](https://img.shields.io/badge/status-Work%20In%20Progress-red.svg)
+2. [*Attitudes Towards Outreach within the Particle-Physics Research Community*](https://github.com/RaoOfPhysics/201607_PCST-Proceedings) (proceedings from PCST 2016) ![status: Work In Progress](https://img.shields.io/badge/status-Work%20In%20Progress-red.svg)
     - [View article](https://www.authorea.com/users/8205/articles/116704/_show_article)
 
 ## Presentations
