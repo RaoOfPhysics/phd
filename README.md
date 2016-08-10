@@ -25,7 +25,7 @@ A list of all my PhD-related repositories on GitHub
 
 1. [*Attitudes towards outreach in particle physics*](https://github.com/RaoOfPhysics/201604_PCST) (presented at PCST 2016) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.50791.svg)](http://dx.doi.org/10.5281/zenodo.50791)
     - [View presentation](https://via.hypothes.is/https://raoofphysics.github.io/201604_PCST/)
-2. [*Support for participating in outreach and the benefits of doing so*](https://github.com/RaoOfPhysics/201608_ICHEP/) (to be presented at ICHEP 2016) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.59928.svg)](http://dx.doi.org/10.5281/zenodo.59928)
+2. [*Support for participating in outreach and the benefits of doing so*](https://github.com/RaoOfPhysics/201608_ICHEP/) (presented at ICHEP 2016) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.59928.svg)](http://dx.doi.org/10.5281/zenodo.59928)
     - [View presentation](https://via.hypothes.is/https://raoofphysics.github.io/201608_ICHEP/)
     - [View the talk on YouTube](https://www.youtube.com/watch?v=ZavZon1LUbU)
 
