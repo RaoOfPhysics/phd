@@ -49,6 +49,4 @@ A list of all my PhD-related repositories on GitHub
 
 [![](https://img.shields.io/badge/Licence-CC0-green.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Eh, this is just a list of links, so I don't see why it needs a licence.
-In any case, I "liberate" this wonderful list into the public domain.
-Knock yourself out!
+I "liberate" this wonderful list of links into the public domain. :)
