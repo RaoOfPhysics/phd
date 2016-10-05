@@ -9,6 +9,8 @@ A list of all my PhD-related repositories on GitHub
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Documents](#documents)
+  - [Papers and Proceedings](#papers-and-proceedings)
+  - [Miscellaneous](#miscellaneous)
 - [Presentations](#presentations)
 - [Posters](#posters)
 - [Writings](#writings)
