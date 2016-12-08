@@ -25,6 +25,8 @@ A list of all my PhD-related repositories on GitHub
     - [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.60214.svg)](http://dx.doi.org/10.5281/zenodo.60214)
     - [Download article from PCST archives](http://www.pcst.co/papers/view/292)
     - [View article on Authorea](https://www.authorea.com/users/8205/articles/116704/_show_article)
+2. [Support for Participating in Outreach and the Benefits of doing so](https://github.com/RaoOfPhysics/201611_ICHEP-Proceedings) (proceedings from ICHEP 2016)
+    - [View article on Authorea](https://www.authorea.com/users/8205/articles/138156/_show_article)
 
 ### Miscellaneous
 
