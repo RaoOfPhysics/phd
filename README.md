@@ -22,6 +22,8 @@ A list of all my PhD-related repositories on GitHub
 ### Papers and Proceedings
 
 1. [*Support for Participating in Outreach and the Benefits of doing so*](https://github.com/RaoOfPhysics/201611_ICHEP-Proceedings) (proceedings from ICHEP 2016)
+    - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.556941.svg)](https://doi.org/10.5281/zenodo.556941)
+    - [Download article from *Proceedings of Science*](https://pos.sissa.it/cgi-bin/reader/contribution.cgi?id=282/343)
     - [View article on Authorea](https://www.authorea.com/users/8205/articles/138156/_show_article)
     - Conference presentation available below
 1. [*Attitudes Towards Outreach within the Particle-Physics Research Community*](https://github.com/RaoOfPhysics/201607_PCST-Proceedings) (proceedings from PCST 2016)
